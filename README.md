@@ -70,12 +70,3 @@ Feel free to submit issues or pull requests if you'd like to improve the script 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Key sections:
-- **Features**: A quick overview of what the script does.
-- **Requirements**: Lists the dependencies and how to install them.
-- **Installation**: How to set up the project.
-- **Usage**: Steps for running the script.
-- **How It Works**: A brief explanation of the process.
-- **Contributions**: Encouragement for others to contribute to the project.
-- **License**: MIT License.
